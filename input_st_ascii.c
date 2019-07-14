@@ -6,7 +6,7 @@ int main(){
     printf("%c\n",vl=vl+32);
     printf("%c\n",vl);*/
     int i;
-    gets(sts);
+    //gets(sts);
     for(i=0;i<strlen(sts);i++){ //use with s also
         printf("%c\n",(sts[i]-32));
     }

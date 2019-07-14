@@ -6,7 +6,6 @@ int main(){
     gets(sts);
 
     puts(sts);
-
     printf("%s",sts);
 
     return 0;

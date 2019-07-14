@@ -9,12 +9,9 @@ int main()
     printf("\nInput your ending limit for odd number : ");
     scanf("%d",&B);
 
-      r=S;
-            n=B;
-      k=S%2;
-            f=B%2;
+      r=S;n=B;k=S%2;f=B%2;
       if(k==0)
-            r++ ;
+        r++ ;
         if(f==0)
             n--;
 
